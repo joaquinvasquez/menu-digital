@@ -1,0 +1,76 @@
+:root{
+    --color-uno: #344;
+    --color-dos: lemonchiffon;
+}
+
+
+
+body{
+    text-align: center;
+    background: var(--color-uno);
+    color: var(--color-dos);
+}
+
+.bg-light{
+    height: 10vh;
+}
+
+header img{
+    height: 80px;
+    border-radius: 3px;
+}
+
+.boton{
+    display: block;
+    margin: 1vh auto;
+    border: none;
+    background: none;
+}
+
+.boton a{
+    text-decoration: none;
+    color: var(--color-dos);
+}
+
+.morfi{
+    padding: 2vh;
+}
+
+.blockquote{
+    text-align: left;
+}
+
+.blockquote-footer{
+    text-align: left;
+}
+
+.derecha{
+    float: right;
+}
+
+h1 img{
+    height: 40px;
+    color: var(--color-dos);
+}
+
+.mt-6{
+    padding-top: 60px;
+}
+
+footer{
+    margin-top: 30px;
+    padding: 30px 0px;
+    background: #212529;
+    font-size: 40px;
+}
+
+.yo{
+    padding: 1vh;
+}
+.yo a{
+    text-decoration: none;
+    color: var(--color-dos);
+}
+.yo h6{
+    margin: 0;
+}

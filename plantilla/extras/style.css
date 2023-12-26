@@ -117,6 +117,10 @@ footer h6{
     font-size: 2vh;
 }
 
+.decididor{
+    margin-bottom: 10vh;
+}
+
 .yo{
     background-color: var(--color-dos);
     color: var(--color-uno);
